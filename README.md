@@ -1,0 +1,2 @@
+# Feed-Forward-Neural-Network-FFNN-
+The dataset used for this experiment will be the problen1 dataset and MNIST dataset to compare alternative classification methods. The problen1 dataset has nine different example types to train, test, and validate the algorithm. Due to the number of datasets, the input vector, weights, and bias all need to be hyper-parameters that will be initialized at the start of the implementations with random values. Attached is a PDF breaking down the algorithm implementation and description.
